@@ -14,7 +14,7 @@
 [Yu-Shen Liu<sup>1†</sup>](https://yushen-liu.github.io), 
 [Pengfei Wan<sup>1†</sup>](https://magicwpf.github.io)
 <br>
-(*, Kuaishou Technology †corresponding authors)
+(*Equal contribution, †corresponding authors)
 
 <sup>1</sup>Kling Team, Kuaishou Technology, <sup>2</sup>Tsinghua University, <sup>3</sup>Peking University
 
