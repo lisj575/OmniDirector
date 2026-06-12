@@ -2,17 +2,17 @@
 
 
 ### [<a href="https://arxiv.org/abs/2606.13432" target="_blank">arXiv</a>] [<a href="https://ymlinfeng.github.io/OmniDirector.github.io/" target="_blank">Project Page</a>]
-[Jiwen Liu<sup>1*</sup>](), 
+Jiwen Liu<sup>1*</sup>, 
 [Shujuan Li<sup>12*</sup>](https://github.com/lisj575), 
-[Zhixue Fang<sup>1</sup>](), 
-[Xiaohan Li<sup>1</sup>](https://openreview.net/profile?id=~Xiaohan_Li8), 
-[Yan Zhou<sup>1†</sup>](https://ieeexplore.ieee.org/author/37085821566), 
-[Zijie Meng<sup>13</sup>](), 
-[Zhimin Zhang<sup>13</sup>](https://github.com/miniz233), 
-[Yawen Luo<sup>1</sup>](https://luo0207.github.io/yawenluo/), 
-[Guoxin Zhang<sup>1</sup>](), 
-[Yu-Shen Liu<sup>2</sup>](https://yushen-liu.github.io), 
-[Pengfei Wan<sup>1</sup>](https://magicwpf.github.io)
+Zhixue Fang<sup>1</sup>, 
+[Xiaohan Li](https://openreview.net/profile?id=~Xiaohan_Li8)<sup>1</sup>, 
+[Yan Zhou](https://ieeexplore.ieee.org/author/37085821566)<sup>1†</sup>, 
+Zijie Meng<sup>13</sup>, 
+[Zhimin Zhang](https://github.com/miniz233)<sup>13</sup>, 
+[Yawen Luo](https://luo0207.github.io/yawenluo/)<sup>1</sup>, 
+Guoxin Zhang<sup>1</sup>, 
+[Yu-Shen Liu](https://yushen-liu.github.io)<sup>2</sup>, 
+[Pengfei Wan](https://magicwpf.github.io)<sup>1</sup>
 <br>
 (*Equal contribution, †Corresponding author)
 
