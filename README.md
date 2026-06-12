@@ -33,8 +33,8 @@ Please give us a star 🌟 and cite our paper if you find our work helpful.
 ```
 @article{liu2024omnidirector,
   title={OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data},
-  author={Liu, Jiwen and Li, Shujuan and Fang, Zhixue and Li, Xiaohan and Zhou, Yan and Meng, Zijie and Zhang, Zhimin and Luo, Yawen and Zhang, Guoxin and Liu, Yu-Shen and Wan, Pengfei}
-  journal={arXiv preprint arXiv:2503.11647},
+  author={Liu, Jiwen and Li, Shujuan and Fang, Zhixue and Li, Xiaohan and Zhou, Yan and Meng, Zijie and Zhang, Zhimin and Luo, Yawen and Zhang, Guoxin and Liu, Yu-Shen and Wan, Pengfei}‘
+  journal={arXiv preprint arXiv:2606.13432},
   year={2026}
 }
 ```
