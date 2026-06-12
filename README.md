@@ -8,11 +8,11 @@
 [Xiaohan Li<sup>1</sup>](https://openreview.net/profile?id=~Xiaohan_Li8), 
 [Yan Zhou<sup>1†</sup>](https://ieeexplore.ieee.org/author/37085821566), 
 [Zijie Meng<sup>13</sup>](), 
-[Zhimin Zhang<sup>13†</sup>](https://github.com/miniz233), 
-[Yawen Luo<sup>1†</sup>](https://luo0207.github.io/yawenluo/), 
-[Guoxin Zhang<sup>1†</sup>](), 
-[Yu-Shen Liu<sup>1†</sup>](https://yushen-liu.github.io), 
-[Pengfei Wan<sup>1†</sup>](https://magicwpf.github.io)
+[Zhimin Zhang<sup>13</sup>](https://github.com/miniz233), 
+[Yawen Luo<sup>1</sup>](https://luo0207.github.io/yawenluo/), 
+[Guoxin Zhang<sup>1</sup>](), 
+[Yu-Shen Liu<sup>1</sup>](https://yushen-liu.github.io), 
+[Pengfei Wan<sup>1</sup>](https://magicwpf.github.io)
 <br>
 (*Equal contribution, †corresponding authors)
 
