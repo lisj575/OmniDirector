@@ -1,7 +1,7 @@
 # OmniDirector: General Multi-Shot Camera Cloning without Paired Data
 
 
-### [<a href="https://ymlinfeng.github.io/OmniDirector.github.io/" target="_blank">arXiv</a>] [<a href="https://ymlinfeng.github.io/OmniDirector.github.io/" target="_blank">Project Page</a>]
+### [<a href="https://arxiv.org/abs/2606.13432" target="_blank">arXiv</a>] [<a href="https://ymlinfeng.github.io/OmniDirector.github.io/" target="_blank">Project Page</a>]
 [Jiwen Liu<sup>1*</sup>](), 
 [Shujuan Li<sup>12*</sup>](https://github.com/lisj575), 
 [Zhixue Fang<sup>3</sup>](), 
