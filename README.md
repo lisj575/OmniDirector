@@ -1,4 +1,4 @@
-# OmniDirector: General Multi-Shot Camera Cloning without Paired Data
+# OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data
 
 
 ### [<a href="https://arxiv.org/abs/2606.13432" target="_blank">arXiv</a>] [<a href="https://ymlinfeng.github.io/OmniDirector.github.io/" target="_blank">Project Page</a>]
