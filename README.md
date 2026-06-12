@@ -4,7 +4,7 @@
 ### [<a href="https://arxiv.org/abs/2606.13432" target="_blank">arXiv</a>] [<a href="https://ymlinfeng.github.io/OmniDirector.github.io/" target="_blank">Project Page</a>]
 [Jiwen Liu<sup>1*</sup>](), 
 [Shujuan Li<sup>12*</sup>](https://github.com/lisj575), 
-[Zhixue Fang<sup>3</sup>](), 
+[Zhixue Fang<sup>1</sup>](), 
 [Xiaohan Li<sup>1</sup>](https://openreview.net/profile?id=~Xiaohan_Li8), 
 [Yan Zhou<sup>1†</sup>](https://ieeexplore.ieee.org/author/37085821566), 
 [Zijie Meng<sup>13</sup>](), 
