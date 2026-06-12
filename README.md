@@ -11,10 +11,10 @@
 [Zhimin Zhang<sup>13</sup>](https://github.com/miniz233), 
 [Yawen Luo<sup>1</sup>](https://luo0207.github.io/yawenluo/), 
 [Guoxin Zhang<sup>1</sup>](), 
-[Yu-Shen Liu<sup>1</sup>](https://yushen-liu.github.io), 
+[Yu-Shen Liu<sup>2</sup>](https://yushen-liu.github.io), 
 [Pengfei Wan<sup>1</sup>](https://magicwpf.github.io)
 <br>
-(*Equal contribution, †corresponding authors)
+(*Equal contribution, †Corresponding author)
 
 <sup>1</sup>Kling Team, Kuaishou Technology, <sup>2</sup>Tsinghua University, <sup>3</sup>Peking University
 
