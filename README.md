@@ -25,7 +25,7 @@
 ## 📖 Introduction
 
 **TL;DR:** We propose OmniDirector to clone diverse camera motions from multi-shot videos to animate source images, which is achieved through our proposed camera grid representation. We also design a hierarchical prompt expansion agent that harmoniously integrates multimodal control signals.
-[![播放视频](https://img.youtube.com/vi/kT6ccsFSYpY/hqdefault.jpg)](https://www.youtube.com/watch?v=kT6ccsFSYpY)
+[![播放视频](./assets/first_pic.png)](https://www.youtube.com/watch?v=kT6ccsFSYpY)
 
 <!-- <html>
   <head><meta charset="utf-8" /></head>
